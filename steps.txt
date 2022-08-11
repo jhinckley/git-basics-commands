@@ -9,20 +9,19 @@ Download git from https://git-scm.com/downloads
 
 Sign up for GitHub
 
-** Step 4 **
-cd /home/student/working_directory
+Create a GitHub Personal Token
 
 
-** Step 5 **
+** Step  **
 Use GitHub information:
 git config --global user.name "student"
 git config --global user.email student@dev.local
 
-** Step 7 **
-git clone http://dev.gitlab.local/student/devnet-lab02.git .
+** Step  **
+git clone https://github.com/Radmanded/git-basics-commands.git
 
-** Step 8 **
-ls -la
+** Step  **
+cd git-basics-commands
 
 ********************************************
 ****************** Task 2 ****************** 
